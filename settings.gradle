@@ -1,0 +1,2 @@
+rootProject.name='WebAndMultimedia'
+include ':app'
